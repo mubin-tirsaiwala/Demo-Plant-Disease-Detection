@@ -14,4 +14,6 @@ Multiple models are trained and work in a chained fashion to determine the final
 ### WebApp
 WebApp is built using Streamlit. If identified, outputs are prediction confidence for each class received from the model output. A feedback mode is provided designed for pathologists to complete the data flywheel and the images are stored based on the received feedback in an Azure Blob Storage.
 
-![](https://github.com/mubin-statlogic/Demo-Plant-Disease-Detection.git/feedback_demo.mp4)
+
+
+https://user-images.githubusercontent.com/73985159/145205934-2e97fc0f-d507-4208-84af-4437c1afdf2c.mp4
